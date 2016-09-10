@@ -2,7 +2,13 @@ DIAMOND SQUARE ALGORITHM TERRAIN GENERATION
 
 
 
-1. How it works:
+1. Detail:
+name: Mingyang Zhang
+login: mingyangz
+
+
+
+2. How it works:
 
 A height map is first generated through diamond square algorithm, and then
 applied to the Terrain game object in Unity.
@@ -18,7 +24,7 @@ https://www.assetstore.unity3d.com/en/#!/content/54630
 
 
 
-2. Control scheme:
+3. Control scheme:
 
 Mouse to control camera view.
 

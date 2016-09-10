@@ -19,7 +19,7 @@ http://www.playfuljs.com/realistic-terrain-in-130-lines/
 
 Unity standard assets are imported for terrain textures, namely rock, sand
 and grass.
-Snow texture are from Unity assets store:
+Snow texture is from Unity assets store:
 https://www.assetstore.unity3d.com/en/#!/content/54630
 
 

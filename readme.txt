@@ -17,10 +17,13 @@ The implementation of the diamond square algorithm is based on these sources:
 https://en.wikipedia.org/wiki/Diamond-square_algorithm
 http://www.playfuljs.com/realistic-terrain-in-130-lines/
 
-Unity standard assets are imported for terrain textures, namely rock, sand
+Unity standard textures are imported for splat mapping, namely rock, sand
 and grass.
 Snow texture is from Unity assets store:
 https://www.assetstore.unity3d.com/en/#!/content/54630
+
+The script for creating water waves is based on this source:
+http://lediogjoni.tumblr.com/
 
 
 
